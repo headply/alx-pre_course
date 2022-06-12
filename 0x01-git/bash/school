@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-#!/bin/bash\necho "School"
+#!/bin/bash\necho "The school is open!"
 =======
 #!/bin/bash
-echo "School"
+echo "The school is open!"
 >>>>>>> a2cf17490d83ef19c9be4e7606d373d6f56fee7b
